@@ -1,0 +1,84 @@
+2016-08-10 18:42:54,921 [INFO] from play.core.server.NettyServer in main - Listening for HTTP on /0.0.0.0:9000
+2016-08-10 18:45:28,968 [INFO] from application in ForkJoinPool-1-worker-1 - ApplicationTimer demo: Starting application at 2016-08-10T16:45:28.937Z.
+2016-08-10 18:45:29,843 [INFO] from play.api.Play in ForkJoinPool-1-worker-1 - Application started (Dev)
+2016-08-10 18:47:27,500 [INFO] from application in main - ApplicationTimer demo: Stopping application at 2016-08-10T16:47:27.500Z after 119s.
+2016-08-17 17:57:26,921 [INFO] from application in main-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Starting application at 2016-08-17T15:57:26.843Z.
+2016-08-17 17:57:30,812 [INFO] from application in main-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Stopping application at 2016-08-17T15:57:30.812Z after 4s.
+2016-08-17 17:57:31,000 [INFO] from application in main-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Starting application at 2016-08-17T15:57:31Z.
+2016-08-17 17:57:31,687 [INFO] from application in main-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Stopping application at 2016-08-17T15:57:31.687Z after 0s.
+2016-08-17 17:57:31,781 [INFO] from application in main-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Starting application at 2016-08-17T15:57:31.781Z.
+2016-08-17 17:57:31,859 [INFO] from application in main-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Stopping application at 2016-08-17T15:57:31.859Z after 0s.
+2016-08-17 17:57:35,312 [INFO] from application in main-ScalaTest-running-IntegrationSpec - ApplicationTimer demo: Starting application at 2016-08-17T15:57:35.312Z.
+2016-08-17 17:57:39,156 [INFO] from application in main-ScalaTest-running-IntegrationSpec - ApplicationTimer demo: Stopping application at 2016-08-17T15:57:39.156Z after 4s.
+2016-08-17 18:09:51,781 [INFO] from application in main-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Starting application at 2016-08-17T16:09:51.750Z.
+2016-08-17 18:09:53,203 [INFO] from application in main-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Stopping application at 2016-08-17T16:09:53.203Z after 2s.
+2016-08-17 18:09:53,343 [INFO] from application in main-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Starting application at 2016-08-17T16:09:53.343Z.
+2016-08-17 18:09:53,515 [INFO] from application in main-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Stopping application at 2016-08-17T16:09:53.515Z after 0s.
+2016-08-17 18:09:53,609 [INFO] from application in main-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Starting application at 2016-08-17T16:09:53.609Z.
+2016-08-17 18:09:53,671 [INFO] from application in main-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Stopping application at 2016-08-17T16:09:53.671Z after 0s.
+2016-08-17 18:09:55,843 [INFO] from application in main-ScalaTest-running-IntegrationSpec - ApplicationTimer demo: Starting application at 2016-08-17T16:09:55.843Z.
+2016-08-17 18:09:57,781 [INFO] from application in main-ScalaTest-running-IntegrationSpec - ApplicationTimer demo: Stopping application at 2016-08-17T16:09:57.781Z after 2s.
+2016-08-17 18:18:27,453 [INFO] from application in main-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Starting application at 2016-08-17T16:18:27.406Z.
+2016-08-17 18:18:28,828 [INFO] from application in main-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Stopping application at 2016-08-17T16:18:28.828Z after 1s.
+2016-08-17 18:18:28,968 [INFO] from application in main-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Starting application at 2016-08-17T16:18:28.968Z.
+2016-08-17 18:18:29,140 [INFO] from application in main-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Stopping application at 2016-08-17T16:18:29.140Z after 1s.
+2016-08-17 18:18:29,234 [INFO] from application in main-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Starting application at 2016-08-17T16:18:29.234Z.
+2016-08-17 18:18:29,296 [INFO] from application in main-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Stopping application at 2016-08-17T16:18:29.296Z after 0s.
+2016-08-17 18:18:31,656 [INFO] from application in main-ScalaTest-running-IntegrationSpec - ApplicationTimer demo: Starting application at 2016-08-17T16:18:31.656Z.
+2016-08-17 18:18:33,640 [INFO] from application in main-ScalaTest-running-IntegrationSpec - ApplicationTimer demo: Stopping application at 2016-08-17T16:18:33.640Z after 2s.
+2016-08-17 18:22:54,015 [INFO] from application in main-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Starting application at 2016-08-17T16:22:53.953Z.
+2016-08-17 18:22:56,515 [INFO] from application in main-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Stopping application at 2016-08-17T16:22:56.515Z after 3s.
+2016-08-17 18:22:56,734 [INFO] from application in main-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Starting application at 2016-08-17T16:22:56.734Z.
+2016-08-17 18:22:56,984 [INFO] from application in main-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Stopping application at 2016-08-17T16:22:56.984Z after 0s.
+2016-08-17 18:22:57,140 [INFO] from application in main-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Starting application at 2016-08-17T16:22:57.140Z.
+2016-08-17 18:22:57,218 [INFO] from application in main-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Stopping application at 2016-08-17T16:22:57.218Z after 0s.
+2016-08-17 18:23:00,296 [INFO] from application in main-ScalaTest-running-IntegrationSpec - ApplicationTimer demo: Starting application at 2016-08-17T16:23:00.296Z.
+2016-08-17 18:23:03,328 [INFO] from application in main-ScalaTest-running-IntegrationSpec - ApplicationTimer demo: Stopping application at 2016-08-17T16:23:03.328Z after 3s.
+2016-08-17 18:43:54,687 [INFO] from application in main-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Starting application at 2016-08-17T16:43:54.656Z.
+2016-08-17 18:43:57,109 [INFO] from application in main-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Stopping application at 2016-08-17T16:43:57.109Z after 3s.
+2016-08-17 18:43:57,265 [INFO] from application in main-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Starting application at 2016-08-17T16:43:57.265Z.
+2016-08-17 18:43:57,984 [INFO] from application in main-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Stopping application at 2016-08-17T16:43:57.984Z after 0s.
+2016-08-17 18:43:58,109 [INFO] from application in main-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Starting application at 2016-08-17T16:43:58.109Z.
+2016-08-17 18:43:58,218 [INFO] from application in main-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Stopping application at 2016-08-17T16:43:58.203Z after 0s.
+2016-08-17 18:44:01,953 [INFO] from application in main-ScalaTest-running-IntegrationSpec - ApplicationTimer demo: Starting application at 2016-08-17T16:44:01.953Z.
+2016-08-17 18:44:08,296 [INFO] from application in main-ScalaTest-running-IntegrationSpec - ApplicationTimer demo: Stopping application at 2016-08-17T16:44:08.296Z after 7s.
+2016-08-17 18:48:04,000 [INFO] from application in main-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Starting application at 2016-08-17T16:48:03.953Z.
+2016-08-17 18:48:05,671 [INFO] from application in main-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Stopping application at 2016-08-17T16:48:05.671Z after 2s.
+2016-08-17 18:48:05,843 [INFO] from application in main-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Starting application at 2016-08-17T16:48:05.843Z.
+2016-08-17 18:48:06,046 [INFO] from application in main-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Stopping application at 2016-08-17T16:48:06.046Z after 1s.
+2016-08-17 18:48:06,187 [INFO] from application in main-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Starting application at 2016-08-17T16:48:06.187Z.
+2016-08-17 18:48:06,265 [INFO] from application in main-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Stopping application at 2016-08-17T16:48:06.265Z after 0s.
+2016-08-17 18:48:09,000 [INFO] from application in main-ScalaTest-running-IntegrationSpec - ApplicationTimer demo: Starting application at 2016-08-17T16:48:09Z.
+2016-08-17 18:48:11,343 [INFO] from application in main-ScalaTest-running-IntegrationSpec - ApplicationTimer demo: Stopping application at 2016-08-17T16:48:11.343Z after 2s.
+2016-08-17 18:50:31,796 [INFO] from application in main-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Starting application at 2016-08-17T16:50:31.750Z.
+2016-08-17 18:50:33,359 [INFO] from application in main-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Stopping application at 2016-08-17T16:50:33.359Z after 2s.
+2016-08-17 18:50:33,515 [INFO] from application in main-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Starting application at 2016-08-17T16:50:33.515Z.
+2016-08-17 18:50:33,703 [INFO] from application in main-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Stopping application at 2016-08-17T16:50:33.703Z after 0s.
+2016-08-17 18:50:33,828 [INFO] from application in main-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Starting application at 2016-08-17T16:50:33.828Z.
+2016-08-17 18:50:33,890 [INFO] from application in main-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Stopping application at 2016-08-17T16:50:33.890Z after 0s.
+2016-08-17 18:50:36,406 [INFO] from application in main-ScalaTest-running-IntegrationSpec - ApplicationTimer demo: Starting application at 2016-08-17T16:50:36.406Z.
+2016-08-17 18:50:38,562 [INFO] from application in main-ScalaTest-running-IntegrationSpec - ApplicationTimer demo: Stopping application at 2016-08-17T16:50:38.562Z after 2s.
+2016-08-17 18:51:55,468 [INFO] from application in main-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Starting application at 2016-08-17T16:51:55.421Z.
+2016-08-17 18:51:57,078 [INFO] from application in main-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Stopping application at 2016-08-17T16:51:57.078Z after 2s.
+2016-08-17 18:51:57,250 [INFO] from application in main-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Starting application at 2016-08-17T16:51:57.250Z.
+2016-08-17 18:51:57,453 [INFO] from application in main-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Stopping application at 2016-08-17T16:51:57.453Z after 0s.
+2016-08-17 18:51:57,578 [INFO] from application in main-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Starting application at 2016-08-17T16:51:57.578Z.
+2016-08-17 18:51:57,640 [INFO] from application in main-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Stopping application at 2016-08-17T16:51:57.640Z after 0s.
+2016-08-17 18:52:00,265 [INFO] from application in main-ScalaTest-running-IntegrationSpec - ApplicationTimer demo: Starting application at 2016-08-17T16:52:00.265Z.
+2016-08-17 18:52:02,718 [INFO] from application in main-ScalaTest-running-IntegrationSpec - ApplicationTimer demo: Stopping application at 2016-08-17T16:52:02.718Z after 2s.
+2016-08-17 19:04:18,937 [INFO] from application in main-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Starting application at 2016-08-17T17:04:18.828Z.
+2016-08-17 19:04:23,015 [INFO] from application in main-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Stopping application at 2016-08-17T17:04:23.015Z after 5s.
+2016-08-17 19:04:23,171 [INFO] from application in main-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Starting application at 2016-08-17T17:04:23.171Z.
+2016-08-17 19:04:23,796 [INFO] from application in main-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Stopping application at 2016-08-17T17:04:23.796Z after 0s.
+2016-08-17 19:04:23,906 [INFO] from application in main-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Starting application at 2016-08-17T17:04:23.906Z.
+2016-08-17 19:04:23,968 [INFO] from application in main-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Stopping application at 2016-08-17T17:04:23.968Z after 0s.
+2016-08-17 19:04:27,312 [INFO] from application in main-ScalaTest-running-IntegrationSpec - ApplicationTimer demo: Starting application at 2016-08-17T17:04:27.312Z.
+2016-08-17 19:04:32,203 [INFO] from application in main-ScalaTest-running-IntegrationSpec - ApplicationTimer demo: Stopping application at 2016-08-17T17:04:32.203Z after 5s.
+2016-08-17 19:07:41,484 [INFO] from application in main-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Starting application at 2016-08-17T17:07:41.453Z.
+2016-08-17 19:07:42,890 [INFO] from application in main-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Stopping application at 2016-08-17T17:07:42.890Z after 1s.
+2016-08-17 19:07:43,031 [INFO] from application in main-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Starting application at 2016-08-17T17:07:43.031Z.
+2016-08-17 19:07:43,203 [INFO] from application in main-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Stopping application at 2016-08-17T17:07:43.203Z after 0s.
+2016-08-17 19:07:43,312 [INFO] from application in main-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Starting application at 2016-08-17T17:07:43.312Z.
+2016-08-17 19:07:43,359 [INFO] from application in main-ScalaTest-running-ApplicationSpec - ApplicationTimer demo: Stopping application at 2016-08-17T17:07:43.343Z after 0s.
+2016-08-17 19:07:45,625 [INFO] from application in main-ScalaTest-running-IntegrationSpec - ApplicationTimer demo: Starting application at 2016-08-17T17:07:45.625Z.
+2016-08-17 19:07:47,546 [INFO] from application in main-ScalaTest-running-IntegrationSpec - ApplicationTimer demo: Stopping application at 2016-08-17T17:07:47.546Z after 2s.
